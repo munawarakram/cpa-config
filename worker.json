@@ -1,4 +1,7 @@
 {
-  "version": 2,
-  "worker": "https://aliexpress.aliexpresscpa.workers.dev/",
+  "version": 3,
+  "redirect_workers": [
+    "https://aliexpress.aliexpresscpa.workers.dev/",
+    "https://aliexpresscpa.netlify.app/.netlify/functions/go"
+  ]
 }
