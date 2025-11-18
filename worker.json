@@ -1,5 +1,4 @@
 {
   "version": 2,
   "worker": "https://aliexpress.aliexpresscpa.workers.dev/",
-  "config_url": "https://raw.githubusercontent.com/munawarakram/cpa-config/main/config.json"
 }
