@@ -1,7 +1,15 @@
 {
-  "version": 3,
+  "version": 4,
   "redirect_workers": [
-    "https://aliexpress.aliexpresscpa.workers.dev/",
-    "https://aliexpresscpa.netlify.app/.netlify/functions/go"
+    {
+      "url": "https://aliexpress.aliexpresscpa.workers.dev/",
+      "type": "cloudflare",
+      "priority": 1
+    },
+    {
+      "url": "https://aliexpresscpa.netlify.app/.netlify/functions/go",
+      "type": "netlify",
+      "priority": 2
+    }
   ]
 }
