@@ -1,0 +1,14 @@
+[
+  {
+    "name": "main",
+    "type": "rzekl",
+    "weight": 60,
+    "aff": "1e8d114494a2414954b816525dc3e8"
+  },
+  {
+    "name": "backup",
+    "type": "rzekl",
+    "weight": 40,
+    "aff": "1e8d114494d74d4d5a1a16525dc3e8"
+  }
+]
