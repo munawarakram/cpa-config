@@ -1,6 +1,24 @@
 {
-  "version": 10,
+  "version": 20,
+
   "redirect_workers": [
-    "https://aliexpress.aliexpresscpa.workers.dev/"
-  ]
+    "https://aliexpress.aliexpresscpa.workers.dev/",
+    "https://aliexpresscpa.aliexpresscpaa.workers.dev/"
+  ],
+
+  "settings": {
+    "rotate_strategy": "round_robin",
+    "retry_count": 3,
+    "timeout_ms": 1500,
+    "loop_protection": true,
+
+    "skip_if_contains": [
+      "aff_fcid",
+      "aff_fsk",
+      "aff_trace_key",
+      "utm_source=admitad",
+      "rzekl.com",
+      "cpa_done=1"
+    ]
+  }
 }
