@@ -1,11 +1,10 @@
 {
-  "version": 22,
-
-  "worker": "https://aliexpress.aliexpresscpa.workers.dev/",
+  "version": 23,
+  "worker": "https://tesinging.aliexpresscpa.workers.dev/",
 
   "redirect_workers": [
-    "https://aliexpress.aliexpresscpa.workers.dev/",
     "https://tesinging.aliexpresscpa.workers.dev/",
+    "https://aliexpress.aliexpresscpa.workers.dev/",
     "https://aliexpresscpa.aliexpresscpaa.workers.dev/"
   ]
 }
