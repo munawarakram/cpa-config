@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 28,
   "worker": "https://tesinging.aliexpresscpa.workers.dev/",
 
   "redirect_workers": [
