@@ -1,8 +1,7 @@
 {
-  "version": 34,
+  "version": 35,
   "redirect_workers": [
-   
+    "https://alixpressdeals.com/go/",
     "https://alixpressdeals.com/go/"
-   
   ]
 }
