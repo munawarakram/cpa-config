@@ -1,9 +1,9 @@
 {
-  "version": 32,
+  "version": 33,
   "redirect_workers": [
+    "https://alixpressdeals.com/",
+    "https://aliexpresscpa.aliexpresscpaa.workers.dev/",
     "https://aliexpress.aliexpresscpa.workers.dev/",
-   
-    "https://aliexpresscpa.aliexpresscpaa.workers.dev/"
-	 "https://alixpressdeals.com/go/",
+    "https://shopvibeco.xyz/go/"
   ]
 }
