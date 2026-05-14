@@ -1,8 +1,8 @@
 {
-  "version": 38,
+  "version": 39,
   "redirect_workers": [
     "https://alixpressdeals.com",
     "https://aliexpresscpa.aliexpresscpaa.workers.dev",
-    "https://vi.aliexpresscpa.workers.dev",
+    "https://vi.aliexpresscpa.workers.dev"
   ]
 }
