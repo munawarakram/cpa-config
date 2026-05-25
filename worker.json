@@ -1,9 +1,4 @@
 {
-  "version": 40,
-  "redirect_workers": [
-    "https://alixpressdeals.com",
-    "https://vi.bestgrabdeal.com",
-    "https://aliexpresscpa.aliexpresscpaa.workers.dev",
-    "https://vi.aliexpresscpa.workers.dev"
-  ]
+  "version": 41,
+  "redirect_workers": []
 }
