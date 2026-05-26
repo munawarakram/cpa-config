@@ -1,7 +1,4 @@
 {
-  "version": 36,
-  "redirect_workers": [
-    "aliexpress.aliexpresscpa.workers.dev/",
-    "aliexpress.aliexpresscpa.workers.dev/",
-  ]
+  "version": 41,
+  "redirect_workers": []
 }
